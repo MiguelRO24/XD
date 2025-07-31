@@ -10,7 +10,7 @@ st.set_page_config(layout= 'centered', page_title= 'mi primer pericaso', page_ic
 # Titulo de la pagina
 t1, t2 = st.columns([0.3, 0.7])
 t1.image('Diomedes.jpg', width = 200)
-t2.title('mi primer tablero')
+t2.title('mi primera traba')
 t2.markdown('**tel:** 3122132311 **| email:** miguel.rodriguezo@udea.edu.co')
 
 # Secciones
