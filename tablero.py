@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Nombre de la pestaña
-st.set_page_config(layout= 'centered', page_title= 'Talento Tech', page_icon= ':smile:')
+st.set_page_config(layout= 'centered', page_title= 'mi primer pericaso', page_icon= ':smile:')
 
 # Titulo de la pagina
 t1, t2 = st.columns([0.3, 0.7])
