@@ -17,7 +17,7 @@ t2.markdown('**tel:** 3122132311 **| email:** miguel.rodriguezo@udea.edu.co')
 steps = st.tabs(['Pestaña 1', 'Pestaña 2', 'Pestaña $\sqrt{9}$'])
 with steps[0]:
     st.write('Hola mundo')
-    st.image('Talento_Tech.png', width = 50)
+    st.image('Diomedes.jpg', width = 50)
     data = {'Nombre': ['Adan', 'Eva'], 'Fecha de nacimiento':[0, 0]}
     df = pd.DataFrame(data)
     st.table(df)
